@@ -29,28 +29,11 @@ We believe AI agents should be embedded in the tools you already use — not sol
 
 Each product has its own repository in this org. The marketing page, documentation, and hosted SaaS for each live on [interactor.com](https://interactor.com).
 
-### 🐾 Customer operations
-
-| Product | Repo | What it does | Marketing | Hosted |
-|---|---|---|---|---|
-| **CRM** | [InteractorOSS/crm](https://github.com/InteractorOSS/crm) | Open-source AI-augmented CRM. Contacts, deals, customer 360, agent-driven workflows. | [interactor.com/products/crm](https://interactor.com/products/crm) | [Try free](https://interactor.com/products/crm/app) |
-| **Ticketing** | [InteractorOSS/ticketing](https://github.com/InteractorOSS/ticketing) | Open-source helpdesk and ticketing. Public knowledge base, SLA management, agent triage. | [interactor.com/products/ticketing](https://interactor.com/products/ticketing) | [Try free](https://interactor.com/products/ticketing/app) |
-| **Social** | [InteractorOSS/social](https://github.com/InteractorOSS/social) | Open-source social posting and engagement. Multi-account, AI-drafted, scheduled. | [interactor.com/products/social](https://interactor.com/products/social) | [Try free](https://interactor.com/products/social/app) |
-
 ### 🐾 Productivity & collaboration
 
 | Product | Repo | What it does | Marketing | Hosted |
 |---|---|---|---|---|
 | **Build** | [InteractorOSS/build](https://github.com/InteractorOSS/build) | Open-source product management with public roadmaps, changelogs, and feedback boards. | [interactor.com/products/build](https://interactor.com/products/build) | [Try free](https://interactor.com/products/build/app) |
-| **Meeting** | [InteractorOSS/meeting](https://github.com/InteractorOSS/meeting) | Open-source meeting tool with public summaries, agent-generated notes, and action items. | [interactor.com/products/meeting](https://interactor.com/products/meeting) | [Try free](https://interactor.com/products/meeting/app) |
-| **Chat** | [InteractorOSS/chat](https://github.com/InteractorOSS/chat) | Open-source team chat with AI threading and inline agent help. | [interactor.com/products/chat](https://interactor.com/products/chat) | [Try free](https://chat.interactor.com) |
-| **BetterMe** | [InteractorOSS/betterme](https://github.com/InteractorOSS/betterme) | Open-source personal productivity and goal tracking with an AI companion. | [interactor.com/products/betterme](https://interactor.com/products/betterme) | [Try free](https://betterme.interactor.com) |
-
-### 🐾 Growth & analytics
-
-| Product | Repo | What it does | Marketing | Hosted |
-|---|---|---|---|---|
-| **Grow** | [InteractorOSS/grow](https://github.com/InteractorOSS/grow) | Open-source growth analytics with public reports and agent-generated insights. | [interactor.com/products/grow](https://interactor.com/products/grow) | [Try free](https://grow.interactor.com) |
 
 ### 🧩 Templates & references
 
@@ -74,14 +57,7 @@ Learn more: [interactor.com/agent-os](https://interactor.com/agent-os) · [docs]
 
 Every product has a free hosted tier with no install required. Sign up once at [interactor.com](https://interactor.com) and access any product:
 
-- [Interactor CRM](https://interactor.com/products/crm/app)
-- [Interactor Ticketing](https://interactor.com/products/ticketing/app)
 - [Interactor Build](https://interactor.com/products/build/app)
-- [Interactor Meeting](https://interactor.com/products/meeting/app)
-- [Interactor Grow](https://grow.interactor.com)
-- [Interactor Social](https://interactor.com/products/social/app)
-- [Interactor Chat](https://chat.interactor.com)
-- [Interactor BetterMe](https://betterme.interactor.com)
 
 ### Self-host
 
